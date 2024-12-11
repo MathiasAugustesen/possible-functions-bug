@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_function_bug": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7025",
+      "launchBrowser": false
+    }
+  }
+}
